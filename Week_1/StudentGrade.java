@@ -18,8 +18,6 @@ public class StudentGrade {
         id = input.nextLine();
         System.out.print("Enter Course Name: ");
         course = input.nextLine();
-
-     
         System.out.println ("Enter Coding marks: ");
         mark1 = input.nextDouble();
         if (mark1 >= 80) {
@@ -36,6 +34,7 @@ public class StudentGrade {
 
         System.out.println("Hello, " + name + "," + "Your ID is: " + id);
         System.out.println("Your Coding Mark is: " + mark1);
+         System.out.println("Course: " + course);
         System.out.println(" So, Your Grade is : " + grade);
 
         input.close();
