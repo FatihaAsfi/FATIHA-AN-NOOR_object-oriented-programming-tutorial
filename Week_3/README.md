@@ -64,14 +64,6 @@ I am a lecturer
 - Method Overriding (`@Override`)
 - Runtime Polymorphism (dynamic method dispatch)
 
-## Class Hierarchy
-
-```
-        Person
-       /      \
-  Student   Lecturer
-```
-
 ## How to Run
 - Type java Main.java in the terminal
 
