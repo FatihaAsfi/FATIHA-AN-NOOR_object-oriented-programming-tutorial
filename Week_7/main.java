@@ -1,7 +1,7 @@
 package Week_7;
 
 public class main{
-    public static void main (String[] args){
+    public static void main  (String[] args){
         Appliance app1 = new WashingMachine("LG");
   app1.displayBrand();
   app1.turnOn();
